@@ -27,3 +27,8 @@ chmod 700 setup.sh
 source venv/bin/activate
 python manage.py runserver
 ```
+
+Visit these URLs:
+
+- [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin) (username && password == admin)
+- [http://127.0.0.1:8000/blog/how-to-make-money/](http://127.0.0.1:8000/blog/how-to-make-money/)
