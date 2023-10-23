@@ -10,7 +10,7 @@ Windows:
 
 ```
 mkdir django-blog-app && cd django-blog-app
-git clone git@github.com:SamuliNatri/django-blog-app.git .
+git clone git@github.com:SamuliNatri/django-blog-app-tutorial.git .
 setup.bat
 venv\Scripts\activate.bat
 python manage.py runserver
@@ -20,7 +20,7 @@ macOS, Linux:
 
 ```bash
 mkdir django-blog-app && cd django-blog-app
-git clone git@github.com:SamuliNatri/django-blog-app.git .
+git clone git@github.com:SamuliNatri/django-blog-app-tutorial.git .
 cd django-blog-app
 chmod 700 setup.sh
 ./setup.sh
