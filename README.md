@@ -1,4 +1,4 @@
-# Django - Translation (Internationalization) Tutorial (Python)
+# Django - Translation Tutorial (Internationalization) (Python)
 
 How to create multilingual websites using Django.
 
@@ -27,7 +27,8 @@ source venv/bin/activate
 python manage.py runserver
 ```
 
-Visit these URLs:
+Translate content in these URLs:
 
-- [http://127.0.0.1:8000/admin](http://127.0.0.1:8000/admin) (username && password == admin)
-- [http://127.0.0.1:8000/blog/how-to-make-money/](http://127.0.0.1:8000/blog/how-to-make-money/)
+- [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
+- [http://127.0.0.1:8000/de/verwaltung/](http://127.0.0.1:8000/de/verwaltung/)
+- username && password == admin
