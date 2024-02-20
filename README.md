@@ -1,3 +1,7 @@
+# Check out my Django Book
+
+🔥Making Money with Django and AI: How to Build SaaS Services Using Python: https://samulinatri.com/books/making-money-with-django-and-ai
+
 # Django - Translation Tutorial (Internationalization) (Python)
 
 How to create multilingual websites using Django.
